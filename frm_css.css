@@ -1,0 +1,15 @@
+.head{position:absolute;width:100%;top:0;height:140px;border:1px solid #CCCCCC outset;background:#333333;}
+.headtxt{position:absolute;left:17%;width:700px;top:15;height:30px;color:#FDBA05;}
+.admin{position:absolute;right:2%;width:125px;top:10px;height:30px;color:#CCCCCC;border: 1px solid #666666;}
+.mar{position:relative;left:21%;width:1000;top:45;height:20px;color:#CCCCCC;}
+.logout{position:absolute;right:20px;width:84px;top:11;height:27px;background:url(img/btn_log1.jpg) no-repeat;border: 0px solid #666666;}
+.wel{position:absolute;left:17%;width:650px;top:15;height:30px;}
+.power{position:absolute;right:10%;top:60px;}
+.btnleft{position:relative;float:right;width:150px;top:2;text-align:center;height:22px;border-radius:10px;border: 1px solid yellow;background:#65C607;border:2px solid #CCCCCC outset;margin:0px 20px 0px 0px;}
+.lng{position:absolute;left:1px;width:410px; height:140px;top:0;height:140px;color:#FDBA05;background:url(img/rgc/rcg.jpg) no-repeat;}
+.invalid{position:absolute;width:100%;top:80;height:30px;border:1px solid #CCCCCC outset;background:#BFCFDE ;}
+.code{position:relative;width:55px;height:23px;border: 1px solid black;}
+
+.bgmain{position:absolute;right:2%;width:1000px;height:500px;background:url(img/tlb.jpg) no-repeat;float:right;}
+
+
